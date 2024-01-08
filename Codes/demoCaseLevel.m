@@ -19,13 +19,13 @@
 clear
 clc
 
-imgDir = 'V:\Amgad\PD-L1 Project\Aminu_Code\Data';
+imgDir = 'Y:\Projects\GEMINI\Data';
 datapath = dir(fullfile(imgDir,'CT'));
 segpath = dir(fullfile(imgDir,'tumor_mask'));
 datapath(1:2) = [];
 segpath(1:2) = [];
 
-rootDir = 'V:\Amgad\PD-L1 Project\Aminu_Code';
+rootDir = 'Y:\Projects\GEMINI';
 Output=[rootDir '\Results\InputImages'];
 if ~exist(Output, 'dir')
     mkdir(Output);
