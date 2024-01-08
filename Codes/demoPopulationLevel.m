@@ -19,7 +19,7 @@
 clear
 clc
 
-rootDir = '...\DI for immunotherapy response';
+rootDir = 'Y:\Projects\GEMINI';
 
 SubregionsDir = fullfile(rootDir, 'Results', 'TumorPartitions');
 if ~exist(SubregionsDir, 'dir')
