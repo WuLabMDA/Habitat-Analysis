@@ -14,7 +14,6 @@
 %   version 1.0 --May/2023
 %
 %   Written by: Muhammad Aminu (muhammadaminu47 AT gmail.com)
-%               Pingjun Chen (pingjunchen AT ieee.org)
 %               Jia Wu (jwu11 AT mdanderson.org)
 
 clear
