@@ -23,7 +23,7 @@
 clc
 clear
 
-rootDir = '...\All Data';
+rootDir = 'C:\Projects\ICON';
 
 ClusterNum = 5;
 tumorClusterDir = fullfile(rootDir, 'Results', 'TumorPartitions');
