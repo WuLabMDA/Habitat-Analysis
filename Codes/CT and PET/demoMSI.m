@@ -17,7 +17,7 @@
 %               Pingjun Chen (pingjunchen AT ieee.org)
 %               Jia Wu (jwu11 AT mdanderson.org)
 %
-%   Copyright 2024 MAminu. This code may be freely used and distributed, so long as it maintains this copyright line
+%   Copyright 2023 MAminu. This code may be freely used and distributed, so long as it maintains this copyright line
 % 
 
 clc
