@@ -65,7 +65,7 @@ for i = 1:numPatients
     end
 
     % load PET scans
-    petFile = ls(fullfile(imgDir, pName, 'PET.nii'));
+    petFile = ls(fullfile(imgDir, pName, 'SUV.nii'));
     petPath = fullfile(imgDir, pName, petFile);
     petImage = niftiread(petPath);
 
